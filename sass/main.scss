@@ -1,0 +1,17 @@
+@import "./utils/variables";
+@import "./utils/mixins";
+@import "./base/base";
+@import "./base/typography";
+@import "./layouts/header";
+@import "./layouts/navbar";
+@import "./layouts/corps";
+@import "./layouts/restaurants";
+@import "./layouts/fonctionnements";
+@import "./layouts/footer";
+@import "./componants/card";
+@import "./componants/buttons";
+@import "./componants/plate-card";
+@import "./componants/fonctionnement";
+@import "./componants/nouveau.scss";
+@import "./pages/accueil";
+@import "./pages/menu";

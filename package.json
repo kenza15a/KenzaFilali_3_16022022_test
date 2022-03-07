@@ -1,0 +1,29 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "P3 openClassroom",
+  "main": "index.js",
+  "quotemark": [
+    true,
+    "double"
+  ],
+  "scripts": {
+  "sass": "sass --watch ./sass/main.scss:./css/styles.css" ,
+  "prefix": "postcss ./css/styles.css --use autoprefixer -d ./css/prefixed"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenza15a/p3_kenzafilali.git"
+  },
+  "keywords": [
+    "P3",
+    "OPCR"
+  ],
+  "author": "Kenza Filali",
+  "license": "ISC",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/kenza15a/p3_kenzafilali/issues"
+  },
+  "homepage": "https://github.com/kenza15a/p3_kenzafilali#readme"
+}
